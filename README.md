@@ -1,3 +1,3 @@
-## Name Contests: Fullstack Application
+# Name Contests: Fullstack Application
 
-# Fullstack JavaScript Development: MongoDB, Node.js, React.js
+## Fullstack JavaScript Development: MongoDB, Node.js, React.js
